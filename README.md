@@ -1,6 +1,8 @@
 # Hi there 👋 
-> My name is *Luis* and I really like to acquire this knowledge about web development. 
+> My name is *Luis* and I really like to acquire this knowledge about web development.
 >> I’m currently learning..
+>>> [View profile LinkedIn](https://www.linkedin.com/in/luisfernandoramos1986/)
+
 <!--
 **fernanluis/fernanluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
