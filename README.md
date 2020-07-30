@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋 
+## My name is Luis and I really like to acquire this knowledge about web development. 
+## I’m currently learning..
 <!--
 **fernanluis/fernanluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
