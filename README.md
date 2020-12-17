@@ -1,6 +1,7 @@
 # Hi there 👋 
 > My name is *Luis* and I really like to acquire this knowledge about web development.
->> I’m currently learning..
+>> I'm currently learning..
+>> Ruby on Rails like mainly programming lenguage backend.
 >>> [View profile LinkedIn](https://www.linkedin.com/in/luisfernandoramos1986/)
 
 <!--
