@@ -1,22 +1,16 @@
 >>> [My website](https://fernanluis.github.io/)
 
 # Hi there 👋 
-> My name is *Luis* and I really like to acquire this knowledge about web development.
->> I'm currently learning..
->> Ruby on Rails primarily as a backend programming language.
+> My name is *Luis* and I really like to acquire knowledge about testing and web development.
+>> I'm QA Tester
+>> I like to learn all activitis related with technologies.
+>> I like Java, Python, Ruby, I like to know about UX/UI, design of interfaces, and more.
 >>> [View profile LinkedIn](https://www.linkedin.com/in/luisfernandoramos1986/)
 
 <!--
 **fernanluis/fernanluis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on QA Tester
+- 🌱 I’m currently learning ISTQB (International Software Testing Quality Board)
+- 👯 I’m looking to collaborate on Testing of applications web or mobile.
+- 🤔 I’m looking for help with the activities related Testing automation, Jenkins, Flood.
