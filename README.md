@@ -3,7 +3,7 @@
 # Hi there 👋 
 > My name is *Luis* and I really like to acquire knowledge about testing and web development.
 >> I'm QA Tester
->> I like to learn all activitis related with technologies.
+>> I like to learn all activities related with technologies.
 >> I like Java, Python, Ruby, I like to know about UX/UI, design of interfaces, and more.
 > 🔭 I’m currently working as QA Tester
 > 🌱 I’m learning about ISTQB (International Software Testing Qualifications Board)
