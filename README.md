@@ -1,4 +1,4 @@
->>> [My website](https://fernanluis.github.io/)
+>>> [A website as a practice](https://fernanluis.github.io/)
 
 # Hi there 👋 
 
